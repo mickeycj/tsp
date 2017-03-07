@@ -1,0 +1,20 @@
+// Canvas constants.
+const WIDTH = 1285;
+const HEIGHT = 655
+const TEXT_SIZE = WIDTH/60;
+const VERTICAL_LOWER_BOUND = HEIGHT/5;
+const VERTICAL_UPPER_BOUND = HEIGHT-HEIGHT/20;
+const PERCENTAGE_TEXT_X_POS = WIDTH/60;
+const PERCENTAGE_TEXT_Y_POS = HEIGHT/15;
+const BEST_DISTANCE_TEXT_X_POS = WIDTH/60;
+const BEST_DISTANCE_TEXT_Y_POS = HEIGHT/7.5;
+const CITY_SIZE = HEIGHT/30;
+const STROKE_WEIGHT = WIDTH/300;
+// Color constants.
+const BACKGROUND_COLOR = 10;
+const RED = [255, 0, 0];
+const GREEN = [0, 255, 0];
+const BLUE = [0, 0, 255];
+const WHITE = 255;
+// Map constants.
+const NUM_CITIES = 12;
