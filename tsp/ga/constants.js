@@ -1,6 +1,6 @@
 // Canvas constants.
-const WIDTH = 1285;
-const HEIGHT = 655;
+const WIDTH = 1900;
+const HEIGHT = 1000;
 const HORIZONTAL_BOUND = WIDTH/2;
 const VERTICAL_LOWER_BOUND = HEIGHT/4;
 const VERTICAL_UPPER_BOUND = HEIGHT - HEIGHT/10;
